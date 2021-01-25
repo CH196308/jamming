@@ -1,0 +1,2 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[36],{kPrB:function(r,n,t){"use strict";t.d(n,"a",(function(){return withRootErrorBoundary}));var o=t("q1tI"),_=t.n(o),u=t("uIZJ"),a=t("J0yO");function withRootErrorBoundary(r){return Object(a.a)(r,_.a.createElement(u.a,null))}}}]);
+//# sourceMappingURL=36.10390a2ad97839bd3460.chunk.js.map
